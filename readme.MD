@@ -4,17 +4,11 @@
 
 Welcome to UC San Diego's Data Science Capstone in Recommender Systems! Officially this is "DSC-180 A Section 06" for Fall, 2020. 
 
-This class is about ...
-
-By the time you finish this class, you will be able to:
-
-- One
-- Two
-
 ## Important Links
 
-- Instructor: Colin Jemmott, cjemmott@ucsd.edu
-- [DSC180 Lecture Component](https://dsc-capstone.github.io/)
+- [DSC180 Main Website](https://dsc-capstone.github.io/)
+- [Section schedule](https://github.com/jemmott/dsc180a06-fa20/blob/master/schedule.md)
+- Mentor (Colin Jemmott) email: [cjemmott@ucsd.edu](mailto:cjemmott@ucsd.edu)
 
 ## COVID-19 Notes
 
@@ -28,7 +22,6 @@ Third, I want to recognize that this is going to be hard for you.  There are stu
 
 For this class, the key to academic integrity is accurately representing the status and authorship of your work. I strongly encourage you to read the official UCSD policy on integrity of scholarship.
 
-
 ## Diversity and Inclusion
 
 I am committed to an inclusive learning environment that respects our diversity of perspectives, experiences and identities. You, as a student in this course, are also responsible for maintaining an environment where your fellow students feel safe and respected.
@@ -36,3 +29,5 @@ I am committed to an inclusive learning environment that respects our diversity 
 In my opinion, the key to this is recognizing the inherent worth and dignity of every person. If there is a way you could feel more included please let me know via email.
 
 ## Additional Links
+
+- [More about Colin](http://www.cjemmott.com/), which includes a link to a fun podcast I did with UCSD's DS3.
