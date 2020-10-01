@@ -15,6 +15,8 @@ The quarter will end with a proposal for your capstone project. My only real rul
 - [DSC180 Main Website](https://dsc-capstone.github.io/)
 - [Section schedule](https://github.com/jemmott/dsc180a06-fa20/blob/master/schedule.md)
 - Mentor (Colin Jemmott) email: [cjemmott@ucsd.edu](mailto:cjemmott@ucsd.edu)
+- [Zoom](https://ucsd.zoom.us/j/94745180464?pwd=ODR0dXNkMFBjN0JsYUVINU1uT0NPUT09)
+- [Slack](https://dsc180recomme-hfx1767.slack.com)
 
 ## COVID-19 Notes
 
