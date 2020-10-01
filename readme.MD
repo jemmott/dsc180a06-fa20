@@ -2,7 +2,13 @@
 
 ## About this course
 
-Welcome to UC San Diego's Data Science Capstone in Recommender Systems! Officially this is "DSC-180 A Section 06" for Fall, 2020. 
+Welcome to UC San Diego's Data Science Capstone in Recommender Systems! Officially this is "DSC-180 A Section A06" for Fall, 2020. 
+
+This quarter we will replicate a recent paper about, well, replication failures. Read more in the [schedule](https://github.com/jemmott/dsc180a06-fa20/blob/master/schedule.md).
+
+The quarter will end with a proposal for your capstone project. My only real rule about this is that it must be a recommender system that *actually works*.
+
+"Actually works", in this context, means that you are able to validate that it provides humans real value.  This probably means it lives on the internet, and does something useful or brings people joy.
 
 ## Important Links
 
