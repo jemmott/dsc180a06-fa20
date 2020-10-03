@@ -35,11 +35,11 @@ Complete steps 4 & 5 from the previous list.
 
 The code for the paper is [here](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation), along with some detailed documentation and links to additional info about baselines, parameter tuning, etc.
 
-The replication assignment for the quarter is to adapt (with citations!) that baseline code in a way that will be helpful to you. I would like it if you try to replicate a paper that the authors didn't do.
+The replication assignment for the quarter is to adapt that baseline code (with citations!) in a way that will be helpful to you. I would like it if you try to replicate a paper that the authors didn't do.
 
 ## Week 3
 
-Replication Checkpoint #1
+Replication Checkpoint #1 due.
 
 Read [this brief article about the New York Times recommender](https://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/).
 
@@ -50,7 +50,7 @@ Do you know about the Netflix Prize?  It is a huge deal in the history of recomm
 
 Read Netflix description, and how their thinking about the problem of recommending movies to people evolved:
 - [Netflix Recommendations: Beyond the 5 stars (Part 1)](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429)
-- [https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5)
+- [Netflix Recommendations: Beyond the 5 stars (Part 2)](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5)
 
 More resources (not assigned):
 - Wikipedia gives a slightly different account than Netflix: https://en.wikipedia.org/wiki/Netflix_Prize 
@@ -61,7 +61,7 @@ More resources (not assigned):
 
 ## Week 5
 
-Replication Checkpoint #2
+Replication Checkpoint #2 due.
 
 ## Week 6
 
@@ -71,7 +71,9 @@ Give a quick read: ["Evaluating Recommendation Systems"](https://github.com/jemm
 
 Listen to [Rabbit Hole](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) episodes 1-4.  You can also listen wherever you get podcasts. Episodes 5-8 are also interesting, but don't focus as directly on recommender systems, and so aren't assigned.
 
-Optional: ethics paper
+Read about [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+
+Optional: [Recommender systems and their ethical challenges](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/RecommenderSystemsAndTheirEthics.pdf)
 
 ## Week 8
 
@@ -82,8 +84,8 @@ Some reading from "Practical Recommendations" blog:
 
 ## Week 9
 
-Project Proposal
+Project Proposal due.
 
 ## Week 10
 
-Final Replication
+Final Replication due.
