@@ -69,22 +69,24 @@ Give a quick read: ["Evaluating Recommendation Systems"](https://github.com/jemm
 
 ## Week 7
 
+Reach chapter 3 of Cathy O'Neil's "Weapons of Math Destruction" [here](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/Weapons-of-Math-Destruction-Cathy-ONeil-pages-deleted.pdf).  I recommend reading the whole book - I don't agree with everything in it, but it is on my [list of books I like](https://github.com/jemmott/books).
+
+## Week 8
+
 Listen to [Rabbit Hole](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) episodes 1-4.  You can also listen wherever you get podcasts. Episodes 5-8 are also interesting, but don't focus as directly on recommender systems, and so aren't assigned.
 
 Read about [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 
 Optional: [Recommender systems and their ethical challenges](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/RecommenderSystemsAndTheirEthics.pdf)
 
-## Week 8
+## Week 9
+
+Project Proposal due.
 
 Some reading from "Practical Recommendations" blog:
 - [The rest of the owl](https://practicalrecs.com/the-rest-of-the-owl.html)
 - [Top model](https://practicalrecs.com/top-model.html)
 - [From models to systems](https://practicalrecs.com/from-models-to-systems.html)
-
-## Week 9
-
-Project Proposal due.
 
 ## Week 10
 
