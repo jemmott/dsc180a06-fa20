@@ -13,10 +13,23 @@ The quarter will end with a proposal for your capstone project. My only real rul
 ## Important Links
 
 - [DSC180 Main Website](https://dsc-capstone.github.io/)
-- [Section schedule](https://github.com/jemmott/dsc180a06-fa20/blob/master/schedule.md)
+- [DSC180 Main Schedule](https://dsc-capstone.github.io/student/schedule/)
 - Mentor (Colin Jemmott) email: [cjemmott@ucsd.edu](mailto:cjemmott@ucsd.edu)
 - [Zoom](https://ucsd.zoom.us/j/94745180464?pwd=ODR0dXNkMFBjN0JsYUVINU1uT0NPUT09)
 - [Slack](https://dsc180recomme-hfx1767.slack.com)
+
+## Schedule
+
+- [Week 1](https://github.com/jemmott/dsc180a06-fa20/blob/master/week1.md)
+- [Week 2](https://github.com/jemmott/dsc180a06-fa20/blob/master/week2.md)
+- [Week 3](https://github.com/jemmott/dsc180a06-fa20/blob/master/week3.md)
+- [Week 4](https://github.com/jemmott/dsc180a06-fa20/blob/master/week4.md)
+- [Week 5](https://github.com/jemmott/dsc180a06-fa20/blob/master/week5.md)
+- Week 6: No class
+- [Week 7](https://github.com/jemmott/dsc180a06-fa20/blob/master/week7.md)
+- [Week 8](https://github.com/jemmott/dsc180a06-fa20/blob/master/week8.md)
+- [Week 9](https://github.com/jemmott/dsc180a06-fa20/blob/master/week9.md)
+- [Week 10](https://github.com/jemmott/dsc180a06-fa20/blob/master/week10.md)
 
 ## COVID-19 Notes
 
@@ -35,6 +48,15 @@ For this class, the key to academic integrity is accurately representing the sta
 I am committed to an inclusive learning environment that respects our diversity of perspectives, experiences and identities. You, as a student in this course, are also responsible for maintaining an environment where your fellow students feel safe and respected.
 
 In my opinion, the key to this is recognizing the inherent worth and dignity of every person. If there is a way you could feel more included please let me know via email.
+
+## Background
+
+If you need to brush up on recommender systems, you might find these links helpful:
+
+- UCSD's [CSE158: "Web Mining and Recommender Systems"](https://cseweb.ucsd.edu/~jmcauley/) with McAuley. If you haven't taken this class, you should take it this quarter.  Notes and such from previous versions are online.
+- Google's "[Recommendation Systems"](https://developers.google.com/machine-learning/recommendation/) course is free, and takes about four hours to complete. 
+- The book "[Practical Recommender Systems"]() by Falk is more approachable, and does a good job discussing the pitfalls that happen in real-world applications. I don't love the informal tone, and the code samples aren't my favorite, but the advice is solid.
+- ["Recommender Systems: The Textbook" by Aggarwal](https://www.springer.com/gp/book/9783319296579) is a nice, fairly complete and technical reference. I often pick it up when I am stuck.
 
 ## Additional Links
 

@@ -29,7 +29,7 @@ I like to read academic papers in the following order:
 
 For the first class I am asking you to do steps 1-3.
 
-Class Discussion topics
+Class Discussion topics:
 
 - What recommender systems do we interact with online?  Offline?  What could be a recommender that isn't?
 - Reflecting on times when those recommendations are good: what does that look like?
@@ -42,6 +42,8 @@ Complete steps 4 & 5 from the previous list.
 The code for the paper is [here](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation), along with some detailed documentation and links to additional info about baselines, parameter tuning, etc.
 
 The replication assignment for the quarter is to adapt that baseline code (with citations!) in a way that will be helpful to you. I would like it if you try to replicate a paper that the authors didn't do.
+
+
 
 ## Week 3
 
@@ -69,15 +71,24 @@ More resources (not assigned):
 
 Replication Checkpoint #2 due.
 
+Some reading from "Practical Recommendations" blog:
+- [The rest of the owl](https://practicalrecs.com/the-rest-of-the-owl.html)
+- [Top model](https://practicalrecs.com/top-model.html)
+- [From models to systems](https://practicalrecs.com/from-models-to-systems.html)
+
 ## Week 6
 
-Give a quick read: ["Evaluating Recommendation Systems"](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/Evaluating_Recommendation_Systems.pdf) by Shani and Gunawardana. No need to memorize all the material here, but it is important to know what your options are.
+No Class.
 
 ## Week 7
 
-Reach chapter 3 of Cathy O'Neil's "Weapons of Math Destruction" [here](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/Weapons-of-Math-Destruction-Cathy-ONeil-pages-deleted.pdf).  I recommend reading the whole book - I don't agree with everything in it, but it is on my [list of books I like](https://github.com/jemmott/books).
+Give a quick read: ["Evaluating Recommendation Systems"](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/Evaluating_Recommendation_Systems.pdf) by Shani and Gunawardana. No need to memorize all the material here, but it is important to know what your options are.
 
 ## Week 8
+
+Reach chapter 3 of Cathy O'Neil's "Weapons of Math Destruction" [here](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/Weapons-of-Math-Destruction-Cathy-ONeil-pages-deleted.pdf).  I recommend reading the whole book - I don't agree with everything in it, but it is on my [list of books I like](https://github.com/jemmott/books).
+
+## Week 9
 
 Listen to [Rabbit Hole](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) episodes 1-4.  You can also listen wherever you get podcasts. Episodes 5-8 are also interesting, but don't focus as directly on recommender systems, and so aren't assigned.
 
@@ -85,14 +96,7 @@ Read about [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 
 Optional: [Recommender systems and their ethical challenges](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/RecommenderSystemsAndTheirEthics.pdf)
 
-## Week 9
-
 Project Proposal due.
-
-Some reading from "Practical Recommendations" blog:
-- [The rest of the owl](https://practicalrecs.com/the-rest-of-the-owl.html)
-- [Top model](https://practicalrecs.com/top-model.html)
-- [From models to systems](https://practicalrecs.com/from-models-to-systems.html)
 
 ## Week 10
 
