@@ -29,6 +29,12 @@ I like to read academic papers in the following order:
 
 For the first class I am asking you to do steps 1-3.
 
+Class Discussion topics
+
+- What recommender systems do we interact with online?  Offline?  What could be a recommender that isn't?
+- Reflecting on times when those recommendations are good: what does that look like?
+- And what does it look like when they are bad?
+
 ## Week 2
 
 Complete steps 4 & 5 from the previous list.
