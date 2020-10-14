@@ -12,7 +12,7 @@ Read [this brief article about the New York Times recommender](https://open.blog
 
 Replication Checkpoint #1 due.
 
-I would really like it if you tried to reproduce a paper that isn't one of the ones covered in "[Are We Really Making Much Progress?  A worrying Analysis of Recent Neural Recommendation Approaches](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/are%20we%20making%20progress.pdf)" by Dacrema, Cremonesi, and Jannach.  Let me know if you want help identifying a candidate paper.
+I would really like it if you tried to reproduce a paper that isn't one of the ones covered in "[Are We Really Making Much Progress?  A worrying Analysis of Recent Neural Recommendation Approaches](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/are%20we%20making%20progress.pdf)" by Dacrema, Cremonesi, and Jannach.  Let me know if you want help identifying a candidate paper. There is some discussion going on in the #result-replication slack channel.
 
 ## Questions
 
