@@ -60,4 +60,13 @@ If you need to brush up on recommender systems, you might find these links helpf
 
 ## Additional Links
 
+Here are the papers referenced in the main paper we are reading:
+* CMN: https://arxiv.org/pdf/1804.10862.pdf
+* MCRec: https://dl.acm.org/doi/pdf/10.1145/3219819.3219965
+* CVAE: http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p305-li.pdf
+* CDL: http://wanghao.in/paper/KDD15_CDL.pdf
+* NCF: https://arxiv.org/pdf/1708.05031.pdf
+* SpectralCF: https://www.cs.uic.edu/~clu/doc/recsys18_spectralCF.pdf
+* Mult-VAE: https://arxiv.org/pdf/1802.05814.pdf
+
 - [More about Colin](http://www.cjemmott.com/), which includes a link to a fun podcast I did with UCSD's DS3.
