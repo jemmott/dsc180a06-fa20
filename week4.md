@@ -2,6 +2,8 @@
 
 ## Topics
 
+Measuring what matters: is the metric you are measuring a good proxy for the real-world behavior you want to see?
+
 ## Reading
 
 Do you know about the Netflix Prize?  It is a huge deal in the history of recommender systems.  In 2006 Netflix offered a million dollars to anyone who could beat their algorithm by 20%. It took years, but a team did win the prize!  But then the code from the winning team was never used, and the follow up prize for further improvements was canceled. 
@@ -19,4 +21,8 @@ More resources (not assigned):
 
 ## Tasks
 
+Replication checkpoint 1 due.
+
 ## Questions
+
+For the reading response this week write a few sentences about how the failure of the Netflix prize and the failure of replication in our "Are we making much progress?" paper are similar and different.
