@@ -8,7 +8,11 @@ Listen to [Rabbit Hole](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-
 
 Read about [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 
-Optional: [Recommender systems and their ethical challenges](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/RecommenderSystemsAndTheirEthics.pdf)
+Reach chapter 3 of Cathy O'Neil's "Weapons of Math Destruction" [here](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/Weapons-of-Math-Destruction-Cathy-ONeil-pages-deleted.pdf).  I recommend reading the whole book - I don't agree with everything in it, but it is on my [list of books I like](https://github.com/jemmott/books).
+
+## Optional Reading
+
+[Recommender systems and their ethical challenges](https://github.com/jemmott/dsc180a06-fa20/blob/master/papers/RecommenderSystemsAndTheirEthics.pdf)
 
 ## Tasks
 
