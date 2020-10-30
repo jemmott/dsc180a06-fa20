@@ -4,8 +4,8 @@
 
 ## Reading
 
-## Tasks
-
-Final Replication due.
+How to get data.
+- scrappy and clever.
+- data engineering and live systems?
 
 ## Questions
