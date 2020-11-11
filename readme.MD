@@ -25,7 +25,7 @@ The quarter will end with a proposal for your capstone project. My only real rul
 - [Week 3](https://github.com/jemmott/dsc180a06-fa20/blob/master/week3.md)
 - [Week 4](https://github.com/jemmott/dsc180a06-fa20/blob/master/week4.md)
 - [Week 5](https://github.com/jemmott/dsc180a06-fa20/blob/master/week5.md)
-- Week 6: No class
+- [Week 6 (no class)](https://github.com/jemmott/dsc180a06-fa20/blob/master/week6.md)
 - [Week 7](https://github.com/jemmott/dsc180a06-fa20/blob/master/week7.md)
 - [Week 8](https://github.com/jemmott/dsc180a06-fa20/blob/master/week8.md)
 - [Week 9](https://github.com/jemmott/dsc180a06-fa20/blob/master/week9.md)
