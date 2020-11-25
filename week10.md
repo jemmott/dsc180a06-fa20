@@ -1,11 +1,5 @@
 # Week 10
 
-## Topics
+No special assignments this week!  Just get all your other work done.
 
-## Reading
-
-How to get data.
-- scrappy and clever.
-- data engineering and live systems?
-
-## Questions
+You still need to turn something in for the reading response, so please just type "Colin said we get to skip this week."
