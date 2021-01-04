@@ -1,5 +1,19 @@
 # Recommender Systems Capstone
 
+Welcome to the second quarter of UC San Diego's Data Science Capstone in Recommender Systems! 
+
+Officially this is "DSC-180 B Section A05" for Winter, 2021. 
+
+Please review the syllabus for the last quarter (below) for guidelines about health, integrity and inclusion.
+
+## Links
+
+- Mentor (Colin Jemmott) email: [cjemmott@ucsd.edu](mailto:cjemmott@ucsd.edu)
+- [Zoom](https://ucsd.zoom.us/j/94745180464?pwd=ODR0dXNkMFBjN0JsYUVINU1uT0NPUT09)
+- [Slack](https://dsc180recomme-hfx1767.slack.com)
+
+# Last Quarter
+
 ## About this course
 
 Welcome to UC San Diego's Data Science Capstone in Recommender Systems! Officially this is "DSC-180 A Section A06" for Fall, 2020. 
